@@ -1,0 +1,109 @@
+* {
+  transition: all 0s;
+}
+body {
+  background: #100e40;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: Calibri;
+  font-size: 120%;
+}
+.formulario {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: 100px;
+  margin-top: 200px;
+}
+
+.nombreInput {
+  padding: 10px;
+  height: 20px;
+}
+.name {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.contCategorias {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 90%;
+  height: 50px;
+  opacity: 0;
+}
+
+.btncat {
+  width: 200px;
+  height: 20px;
+  background: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+.btncat:hover {
+  background: orange;
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.contenedor {
+  width: 98vw;
+  height: 97vh;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
+  opacity: 0;
+}
+
+.encabezado {
+  background: white;
+  min-width: 300px;
+  width: 70%;
+  padding: 10px;
+}
+
+.categoria {
+  opacity: 0.3;
+  text-align: left;
+}
+
+.pregunta {
+  padding: 10px;
+}
+.imagen {
+  object-fit: cover;
+  height: 200px;
+  width: 100%;
+}
+
+.btn {
+  background: white;
+  width: 60%;
+  padding: 10px;
+  margin: 5px;
+  max-width: 550px;
+}
+
+.btn:hover {
+  background: orange;
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.numero {
+  position: absolute;
+  opacity: 0.3;
+  top: 10px;
+  right: 10px;
+}
+
+.puntaje {
+  padding: 10px;
+  color: white;
+}
