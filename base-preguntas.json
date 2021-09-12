@@ -7,7 +7,8 @@
     "incorrecta2":"Miguel Angel",
     "incorrecta3":"Monet",
     "imagen":"https://live.mrf.io/statics/i/ps/www.muycomputer.com/wp-content/uploads/2019/05/MonaLisa.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"
   },
 
   {
@@ -18,7 +19,8 @@
     "incorrecta2":"vargas llosa",
     "incorrecta3":"neruda",
     "imagen":"https://cdn.culturagenial.com/es/imagenes/novela-cien-anos-de-soledad-de-gabriel-garcia-marquez-og.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"
   },
 
   {
@@ -29,7 +31,8 @@
     "incorrecta2":"miguel angel",
     "incorrecta3":"davinci",
     "imagen":"https://dam.ngenespanol.com/wp-content/uploads/2019/07/El-Grito-Munch.png",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1" 
   },
 
   {
@@ -40,7 +43,8 @@
     "incorrecta2":"tarantino",
     "incorrecta3":"del toro",
     "imagen":"https://static.americadigital.com/wp-content/uploads/2020/10/americadigital_el_resplandor-1140x570.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -51,7 +55,8 @@
     "incorrecta2":"Nolan",
     "incorrecta3":"del toro",
     "imagen":"https://www.muycomputer.com/wp-content/uploads/2019/08/Matrix4.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1" 
   },
 
   {
@@ -62,7 +67,8 @@
     "incorrecta2":"4",
     "incorrecta3":"6",
     "imagen":"https://mathcracker.com/images/legacy/root-of-64.png",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -73,7 +79,8 @@
     "incorrecta2":"5",
     "incorrecta3":"7",
     "imagen":"https://mathcracker.com/images/legacy/root-of-64.png",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -84,7 +91,8 @@
     "incorrecta2":"5",
     "incorrecta3":"7",
     "imagen":"https://mathcracker.com/images/legacy/root-of-64.png",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
   {
     "categoria":"Matematicas",
@@ -94,7 +102,8 @@
     "incorrecta2":"5",
     "incorrecta3":"7",
     "imagen":"https://mathcracker.com/images/legacy/root-of-64.png",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -105,7 +114,8 @@
     "incorrecta2":"5",
     "incorrecta3":"7",
     "imagen":"https://mathcracker.com/images/legacy/root-of-64.png",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -116,7 +126,8 @@
     "incorrecta2":"berlin",
     "incorrecta3":"marsella",
     "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -127,7 +138,8 @@
     "incorrecta2":"berlin",
     "incorrecta3":"marsella",
     "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -138,7 +150,8 @@
     "incorrecta2":"berlin",
     "incorrecta3":"marsella",
     "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
   {
     "categoria":"Geografia",
@@ -148,7 +161,8 @@
     "incorrecta2":"berlin",
     "incorrecta3":"marsella",
     "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -159,7 +173,8 @@
     "incorrecta2":"berlin",
     "incorrecta3":"marsella",
     "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -170,7 +185,8 @@
     "incorrecta2":"11",
     "incorrecta3":"8",
     "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -181,7 +197,8 @@
     "incorrecta2":"11",
     "incorrecta3":"8",
     "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
   {
     "categoria":"Ciencia",
@@ -191,7 +208,8 @@
     "incorrecta2":"11",
     "incorrecta3":"8",
     "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -202,7 +220,8 @@
     "incorrecta2":"11",
     "incorrecta3":"8",
     "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -213,7 +232,8 @@
     "incorrecta2":"11",
     "incorrecta3":"8",
     "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -224,7 +244,8 @@
     "incorrecta2":"Brasil",
     "incorrecta3":"inglaterra",
     "imagen":"https://blog.apuestasdemurcia.es/wp-content/uploads/2016/02/18-2162110.gif",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -235,7 +256,8 @@
     "incorrecta2":"Messi",
     "incorrecta3":"muller",
     "imagen":"https://blogs.iadb.org/conocimiento-abierto/wp-content/uploads/sites/10/2014/06/World_Cup_Logo.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
  {
@@ -246,7 +268,8 @@
     "incorrecta2":"italia",
     "incorrecta3":"españa",
     "imagen":"https://tentulogo.com/wp-content/uploads/logo-y-mascota-del-Mundial-de-Francia-1998-1024x683.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -257,7 +280,8 @@
     "incorrecta2":"italia",
     "incorrecta3":"españa",
     "imagen":"https://tentulogo.com/wp-content/uploads/logo-y-mascota-del-Mundial-de-Francia-1998-1024x683.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   },
 
   {
@@ -268,7 +292,8 @@
     "incorrecta2":"italia",
     "incorrecta3":"españa",
     "imagen":"https://tentulogo.com/wp-content/uploads/logo-y-mascota-del-Mundial-de-Francia-1998-1024x683.jpg",
-    "object_fit":"cover"  
+    "object_fit":"cover",  
+    "nivel":"1"  
   }
 
 

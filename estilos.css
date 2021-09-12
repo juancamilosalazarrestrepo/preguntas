@@ -9,6 +9,10 @@ body {
   font-family: Calibri;
   font-size: 120%;
 }
+
+.score {
+  color: #ffffff;
+}
 .formulario {
   width: 80%;
   display: flex;

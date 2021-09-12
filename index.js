@@ -20,7 +20,9 @@ window.onload =  async function() {
   let preguntas_hechas = 0
   let preguntas_correctas = 0
   let score = select_id("score")
+  let score2 = select_id("score2")
   let scoreacumulado = 0
+  let impnombre = select_id("impnombre")
 
   function enviarNombre(){
 
@@ -164,10 +166,11 @@ let suspender_botones = false
   /* funcion para terminar el juego */
 
   function gameover(){
+    impnombre.innerHTML = nombre
+    contenedor.style.opacity=0;
+    contenedor.style.height="0px";
 
-   document.write("yes");
-
-
+   
   }
   
 
