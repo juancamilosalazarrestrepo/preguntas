@@ -27,9 +27,9 @@
     "categoria":"Artes",
     "pregunta":"¿Quien pinto el grito?",
     "respuesta":"Edvard Munch",
-    "incorrecta1":"Van Gogh",
+    "incorrecta1":"Vincent Van Gogh",
     "incorrecta2":"miguel angel",
-    "incorrecta3":"davinci",
+    "incorrecta3":"Leonardo Davinci",
     "imagen":"https://dam.ngenespanol.com/wp-content/uploads/2019/07/El-Grito-Munch.png",
     "object_fit":"cover",  
     "nivel":"1" 
@@ -39,9 +39,9 @@
     "categoria":"Artes",
     "pregunta":"¿Quien dirigio el resplandor?",
     "respuesta":"kubrik",
-    "incorrecta1":"Nolan",
-    "incorrecta2":"tarantino",
-    "incorrecta3":"del toro",
+    "incorrecta1":"Christopher Nolan",
+    "incorrecta2":"Quentin Tarantino",
+    "incorrecta3":"Guillermo del toro",
     "imagen":"https://static.americadigital.com/wp-content/uploads/2020/10/americadigital_el_resplandor-1140x570.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
@@ -50,10 +50,10 @@
   {
     "categoria":"Artes",
     "pregunta":"¿Quien dirigio el matrix?",
-    "respuesta":"los hermanos watchosky",
-    "incorrecta1":"tarantino",
-    "incorrecta2":"Nolan",
-    "incorrecta3":"del toro",
+    "respuesta":"Hermanas Wachowski",
+    "incorrecta1":"Quentin Tarantino",
+    "incorrecta2":"Christopher Nolan",
+    "incorrecta3":"Guillermo del toro",
     "imagen":"https://www.muycomputer.com/wp-content/uploads/2019/08/Matrix4.jpg",
     "object_fit":"cover",  
     "nivel":"1" 
@@ -61,7 +61,7 @@
 
   {
     "categoria":"Matematicas",
-    "pregunta":"Cuanto es la raiz cuadrada de 64",
+    "pregunta":"¿Cuanto es la raiz cuadrada de 64?",
     "respuesta":"8",
     "incorrecta1":"9",
     "incorrecta2":"4",
@@ -78,7 +78,7 @@
     "incorrecta1":"12",
     "incorrecta2":"5",
     "incorrecta3":"7",
-    "imagen":"https://mathcracker.com/images/legacy/root-of-64.png",
+    "imagen":"https://www.lifeder.com/wp-content/uploads/2019/12/matematicas-concepto-lifeder-min-1024x682.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   },
@@ -90,7 +90,7 @@
     "incorrecta1":"12",
     "incorrecta2":"5",
     "incorrecta3":"7",
-    "imagen":"https://mathcracker.com/images/legacy/root-of-64.png",
+    "imagen":"https://www.educaciontrespuntocero.com/wp-content/uploads/2021/02/mtematicas-978x652.png",
     "object_fit":"cover",  
     "nivel":"1"  
   },
@@ -108,12 +108,12 @@
 
   {
     "categoria":"Matematicas",
-    "pregunta":"Cuanto es 2 x 4",
+    "pregunta":"¿Cuanto es 2 x 4?",
     "respuesta":"8",
     "incorrecta1":"12",
     "incorrecta2":"5",
     "incorrecta3":"7",
-    "imagen":"https://mathcracker.com/images/legacy/root-of-64.png",
+    "imagen":"https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   },
@@ -160,7 +160,7 @@
     "incorrecta1":"Manaos",
     "incorrecta2":"Rio de Janeiro",
     "incorrecta3":"Quito",
-    "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
+    "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Webysther_20180212132345_-_Esplanada.jpg/900px-Webysther_20180212132345_-_Esplanada.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   },
@@ -172,7 +172,7 @@
     "incorrecta1":"Guadalajara",
     "incorrecta2":"Lima",
     "incorrecta3":"Santiago",
-    "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
+    "imagen":"http://c.files.bbci.co.uk/EB90/production/_108640306_gettyimages-1132330190.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   },
@@ -191,54 +191,54 @@
 
   {
     "categoria":"Ciencia",
-    "pregunta":"Cual es la gravedad en la marte",
-    "respuesta":"2",
+    "pregunta":"¿Cual es la gravedad en la marte?",
+    "respuesta":"3.721",
     "incorrecta1":"10",
     "incorrecta2":"11",
     "incorrecta3":"8",
-    "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
+    "imagen":"https://ichef.bbci.co.uk/news/640/cpsprodpb/5840/production/_111029522_gettyimages-1053794310.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   },
   {
     "categoria":"Ciencia",
-    "pregunta":"Cual es la gravedad en la jupiter",
-    "respuesta":"20",
+    "pregunta":"¿Cual es la gravedad en la jupiter?",
+    "respuesta":"24.79",
     "incorrecta1":"10",
     "incorrecta2":"11",
     "incorrecta3":"8",
-    "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
-    "object_fit":"cover",  
-    "nivel":"1"  
-  },
-
-  {
-    "categoria":"Ciencia",
-    "pregunta":"Cual es la gravedad en la venus",
-    "respuesta":"15",
-    "incorrecta1":"10",
-    "incorrecta2":"11",
-    "incorrecta3":"8",
-    "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
+    "imagen":"https://static.dw.com/image/56919702_303.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   },
 
   {
     "categoria":"Ciencia",
-    "pregunta":"Cual es la gravedad en la pluton",
-    "respuesta":"5",
+    "pregunta":"¿Cual es la gravedad en la venus?",
+    "respuesta":"8.87",
     "incorrecta1":"10",
     "incorrecta2":"11",
     "incorrecta3":"8",
-    "imagen":"https://curiosoando.com/wp-content/uploads/2017/10/gravedad-deformacion-espacio-1024x415.jpg",
+    "imagen":"https://as.com/diarioas/imagenes/2020/09/14/actualidad/1600106905_862165_1600107107_noticia_normal_recorte1.jpg",
+    "object_fit":"cover",  
+    "nivel":"1"  
+  },
+
+  {
+    "categoria":"Ciencia",
+    "pregunta":"Cual es la gravedad en la pluton?",
+    "respuesta":"0.62",
+    "incorrecta1":"10",
+    "incorrecta2":"11",
+    "incorrecta3":"8",
+    "imagen":"https://www.caracteristicasdel.com/wp-content/uploads/2020/10/Caracteristicas-de-Pluton...jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   },
 
   {
     "categoria":"Deporte",
-    "pregunta":"¿Quien fue Campeon del Mundo en Alemania 2006",
+    "pregunta":"¿Quien fue Campeon del Mundo en Alemania 2006?",
     "respuesta":"Italia",
     "incorrecta1":"Alemania",
     "incorrecta2":"Brasil",
@@ -250,7 +250,7 @@
 
   {
     "categoria":"Deporte",
-    "pregunta":"quien fue el goleador del mundial del 2014",
+    "pregunta":"¿quien fue el goleador del mundial del 2014?",
     "respuesta":"james",
     "incorrecta1":"cr7",
     "incorrecta2":"Messi",
@@ -262,7 +262,7 @@
 
  {
     "categoria":"Deporte",
-    "pregunta":"Campeon del mundo en el 98",
+    "pregunta":"¿Campeon del mundo en el 98?",
     "respuesta":"Francia",
     "incorrecta1":"alemania",
     "incorrecta2":"italia",
@@ -274,24 +274,24 @@
 
   {
     "categoria":"Deporte",
-    "pregunta":"Campeon del mundo en el 94",
+    "pregunta":"¿Campeon del mundo en el 94?",
     "respuesta":"brasil",
     "incorrecta1":"alemania",
     "incorrecta2":"italia",
     "incorrecta3":"españa",
-    "imagen":"https://tentulogo.com/wp-content/uploads/logo-y-mascota-del-Mundial-de-Francia-1998-1024x683.jpg",
+    "imagen":"https://e00-us-marca.uecdn.es/claro/assets/multimedia/imagenes/2019/06/15/15606190425195.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   },
 
   {
     "categoria":"Deporte",
-    "pregunta":"Campeon del mundo en el 2018",
+    "pregunta":"¿Campeon del mundo en el 2018?",
     "respuesta":"francia",
     "incorrecta1":"alemania",
     "incorrecta2":"italia",
     "incorrecta3":"españa",
-    "imagen":"https://tentulogo.com/wp-content/uploads/logo-y-mascota-del-Mundial-de-Francia-1998-1024x683.jpg",
+    "imagen":"https://www.aden.org/files/sites/9/2018/05/logotipo_fifa2018_russia.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
   }
