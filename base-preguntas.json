@@ -120,7 +120,7 @@
 
   {
     "categoria":"Geografia",
-    "pregunta":"¿Cual es la capital de francia",
+    "pregunta":"¿Cual es la capital de francia?",
     "respuesta":"paris",
     "incorrecta1":"new york",
     "incorrecta2":"berlin",
@@ -132,11 +132,34 @@
 
   {
     "categoria":"Geografia",
-    "pregunta":"¿Cual es la capital de inglaterra",
+    "pregunta":"¿Cual es la capital de inglaterra?",
     "respuesta":"londres",
     "incorrecta1":"new york",
-    "incorrecta2":"berlin",
+    "incorrecta2":"Madrid",
     "incorrecta3":"marsella",
+    "imagen":"https://cdn2.civitatis.com/reino-unido/londres/guia/distritos.jpg",
+    "object_fit":"cover",  
+    "nivel":"1"  
+  },
+
+  {
+    "categoria":"Geografia",
+    "pregunta":"¿Cual es la capital de Colombia?",
+    "respuesta":"Bogota",
+    "incorrecta1":"new york",
+    "incorrecta2":"Buenos Aires",
+    "incorrecta3":"Medellin",
+    "imagen":"https://la.network/wp-content/uploads/2021/07/Emprendimientos-en-Bogota%CC%81.jpg",
+    "object_fit":"cover",  
+    "nivel":"1"  
+  },
+  {
+    "categoria":"Geografia",
+    "pregunta":"¿Cual es la capital de Brasil?",
+    "respuesta":"Brasilia",
+    "incorrecta1":"Manaos",
+    "incorrecta2":"Rio de Janeiro",
+    "incorrecta3":"Quito",
     "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
@@ -144,34 +167,11 @@
 
   {
     "categoria":"Geografia",
-    "pregunta":"¿Cual es la capital de Colombia",
-    "respuesta":"Bogota",
-    "incorrecta1":"new york",
-    "incorrecta2":"berlin",
-    "incorrecta3":"marsella",
-    "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
-    "object_fit":"cover",  
-    "nivel":"1"  
-  },
-  {
-    "categoria":"Geografia",
-    "pregunta":"¿Cual es la capital de Brasil",
-    "respuesta":"Bogota",
-    "incorrecta1":"new york",
-    "incorrecta2":"berlin",
-    "incorrecta3":"marsella",
-    "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
-    "object_fit":"cover",  
-    "nivel":"1"  
-  },
-
-  {
-    "categoria":"Geografia",
-    "pregunta":"¿Cual es la capital de mexico",
+    "pregunta":"¿Cual es la capital de mexico?",
     "respuesta":"mexico DF",
-    "incorrecta1":"new york",
-    "incorrecta2":"berlin",
-    "incorrecta3":"marsella",
+    "incorrecta1":"Guadalajara",
+    "incorrecta2":"Lima",
+    "incorrecta3":"Santiago",
     "imagen":"https://proyectoviajero-16811.kxcdn.com/wp-content/uploads/2021/03/museo-del-louvre-paris-francia.jpg",
     "object_fit":"cover",  
     "nivel":"1"  
@@ -179,7 +179,7 @@
 
   {
     "categoria":"Ciencia",
-    "pregunta":"Cual es la gravedad en la Tierra",
+    "pregunta":"¿Cual es la gravedad en la Tierra?",
     "respuesta":"9.8",
     "incorrecta1":"10",
     "incorrecta2":"11",
